@@ -43,10 +43,10 @@
 // window.alert('operation');
 // console.log('3');
 
-// asynchronos
+asynchronos
 
-// console.log('1');
-// console.log('2');
-// setTimeout(()=>console.log('operation'),4000);
-// console.log('3');
+console.log('1');
+console.log('2');
+setTimeout(()=>console.log('operation'),4000);
+console.log('3');
 
